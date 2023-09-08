@@ -1,0 +1,60 @@
+plugins {
+    id 'com.android.application'
+}
+apply plugin: 'com.google.gms.google-services'
+android {
+    compileSdkVersion 33
+    defaultConfig {
+        applicationId "co.kr.itforone.dreamrun"
+        minSdkVersion 21
+        targetSdkVersion 33
+        versionCode 1019
+        versionName "1.019"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    //여기부터
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    lint {
+        abortOnError false
+        checkReleaseBuilds false
+    }
+    buildFeatures {
+        viewBinding = true
+        dataBinding = true
+    }
+    namespace 'co.kr.itforone.dreamrun'
+    //여기까지 소스를 붙여놓으세요
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'androidx.appcompat:appcompat:1.1.0'
+    implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
+    //implementation 'com.jakewharton:butterknife:10.0.0'
+    implementation 'com.github.bumptech.glide:glide:4.9.0'
+    implementation 'com.google.firebase:firebase-messaging:23.1.2'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.9.0'
+    //annotationProcessor 'com.jakewharton:butterknife-compiler:10.0.0'
+    implementation 'jp.wasabeef:glide-transformations:4.1.0'
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'androidx.test:runner:1.1.1'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
+    implementation 'com.theartofdev.edmodo:android-image-cropper:2.8.+'
+    implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.0.0'
+    implementation platform('com.google.firebase:firebase-bom:28.4.0')
+    implementation 'com.google.firebase:firebase-analytics'
+
+
+    implementation 'io.github.ParkSangGwon:tedpermission:2.3.0'
+
+}
+

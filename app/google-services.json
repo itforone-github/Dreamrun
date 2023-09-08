@@ -1,0 +1,291 @@
+{
+  "project_info": {
+    "project_number": "748525500524",
+    "firebase_url": "https://dreamforone-e23df.firebaseio.com",
+    "project_id": "dreamforone-e23df",
+    "storage_bucket": "dreamforone-e23df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748525500524:android:8e76b327be9488855d4049",
+        "android_client_info": {
+          "package_name": "co.kr.itforone.dreamrun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748525500524-e3jejivucdgvp86m5diqnpidd6al194v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.kr.itforone.dreamrun",
+            "certificate_hash": "fa9657941484e644a70bbf4492602012dfcf85f2"
+          }
+        },
+        {
+          "client_id": "748525500524-9d73q1769i18tfke7c6bpbgd0p1eenlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAitmbGicbzk3M1R4jje4Tet80BW3g_Q78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748525500524-9d73q1769i18tfke7c6bpbgd0p1eenlk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "748525500524-h503l0mk2ea4s18aimc1ojdulfc4ggr7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kr.co.itforone.unihospital"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748525500524:android:310381b946b8f3195d4049",
+        "android_client_info": {
+          "package_name": "co.kr.itforone.namoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748525500524-jj5v57qep280ff5rbjngl1prkaug3rhd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.kr.itforone.namoint",
+            "certificate_hash": "c063787c71badbf36cfa6eb3ed6070b64c57f731"
+          }
+        },
+        {
+          "client_id": "748525500524-9d73q1769i18tfke7c6bpbgd0p1eenlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAitmbGicbzk3M1R4jje4Tet80BW3g_Q78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748525500524-9d73q1769i18tfke7c6bpbgd0p1eenlk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "748525500524-h503l0mk2ea4s18aimc1ojdulfc4ggr7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kr.co.itforone.unihospital"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748525500524:android:0a54274e8b01c4a35d4049",
+        "android_client_info": {
+          "package_name": "co.kr.itforone.team930"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748525500524-5g9bs8jq71nhja8q46iu1u00n95vh867.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.kr.itforone.team930",
+            "certificate_hash": "8f086e657c4f4151066670cde7c2257565fa385a"
+          }
+        },
+        {
+          "client_id": "748525500524-ct2aor8i7g7e1eil47d4n7mu0r2ob90u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.kr.itforone.team930",
+            "certificate_hash": "fa9657941484e644a70bbf4492602012dfcf85f2"
+          }
+        },
+        {
+          "client_id": "748525500524-9d73q1769i18tfke7c6bpbgd0p1eenlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAitmbGicbzk3M1R4jje4Tet80BW3g_Q78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748525500524-9d73q1769i18tfke7c6bpbgd0p1eenlk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "748525500524-h503l0mk2ea4s18aimc1ojdulfc4ggr7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kr.co.itforone.unihospital"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748525500524:android:568c3ebeda5d66bc5d4049",
+        "android_client_info": {
+          "package_name": "com.dreamforone.infltalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748525500524-8vj373p9eq0cmtl6k4rssv7u4crqoakt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dreamforone.infltalk",
+            "certificate_hash": "14ddff695f80c96e5e6d3d8e2b0c10fead96c947"
+          }
+        },
+        {
+          "client_id": "748525500524-hjjrq0m5cgk99bahbljah7fl77t2kppr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dreamforone.infltalk",
+            "certificate_hash": "fa9657941484e644a70bbf4492602012dfcf85f2"
+          }
+        },
+        {
+          "client_id": "748525500524-9d73q1769i18tfke7c6bpbgd0p1eenlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAitmbGicbzk3M1R4jje4Tet80BW3g_Q78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748525500524-9d73q1769i18tfke7c6bpbgd0p1eenlk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "748525500524-h503l0mk2ea4s18aimc1ojdulfc4ggr7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kr.co.itforone.unihospital"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748525500524:android:605733d225aef80a5d4049",
+        "android_client_info": {
+          "package_name": "itforone.kr.co.instagram_cbn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748525500524-2f1l968kuten2frakv05pgj2m3ap4mec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "itforone.kr.co.instagram_cbn",
+            "certificate_hash": "fa9657941484e644a70bbf4492602012dfcf85f2"
+          }
+        },
+        {
+          "client_id": "748525500524-9d73q1769i18tfke7c6bpbgd0p1eenlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAitmbGicbzk3M1R4jje4Tet80BW3g_Q78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748525500524-9d73q1769i18tfke7c6bpbgd0p1eenlk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "748525500524-h503l0mk2ea4s18aimc1ojdulfc4ggr7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kr.co.itforone.unihospital"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748525500524:android:102d60e5e654a7775d4049",
+        "android_client_info": {
+          "package_name": "kr.co.itforone.unihospital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748525500524-erf09iomo5qqt49fkuf3l3flejt5h3b3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.co.itforone.unihospital",
+            "certificate_hash": "c063787c71badbf36cfa6eb3ed6070b64c57f731"
+          }
+        },
+        {
+          "client_id": "748525500524-9d73q1769i18tfke7c6bpbgd0p1eenlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAitmbGicbzk3M1R4jje4Tet80BW3g_Q78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748525500524-9d73q1769i18tfke7c6bpbgd0p1eenlk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "748525500524-h503l0mk2ea4s18aimc1ojdulfc4ggr7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kr.co.itforone.unihospital"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
